@@ -1,0 +1,54 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "BellBoats[0.1.2]",
+    "description": "Connect your bases with bells and shulker boxes!Add a little something extra to your daily commute.",
+    "uuid": "f017f316-32cc-487c-a71d-8d0a72f86b77",
+    "version": [
+      0,
+      1,
+      2
+    ],
+    "min_engine_version": [
+      1,
+      21,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "script",
+      "language": "javascript",
+      "uuid": "ecb033b5-1156-4b48-969b-ea82b0487966",
+      "entry": "scripts/main.js",
+      "version": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "description": "Connect your bases with bells and shulker boxes!Add a little something extra to your daily commute.",
+      "type": "data",
+      "uuid": "0035beae-672a-486c-a2dc-48bff3e37372",
+      "version": [
+        0,
+        1,
+        2
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "module_name": "@minecraft/server",
+      "version": "2.9.0"
+    },
+    {
+      "module_name": "@minecraft/server-ui",
+      "version": "2.1.0"
+    }
+  ],
+  "capabilities": [
+    "script_eval"
+  ]
+}
