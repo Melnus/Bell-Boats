@@ -2,6 +2,8 @@
 
 BellBoats is a logistics and trade network add-on for Minecraft Bedrock Edition. Connect your bases using bells and dyed shulker boxes, embark on long-distance delivery routes via boats, rails, or horseback, and earn emeralds based on cargo value, travel distance, and village population.
 
+[![Bell Boats Demo](https://raw.githubusercontent.com/Melnus/Bell-Boats/refs/heads/main/BellBoats-Thumbnail.jpg)](https://youtu.be/PwE6hOAJY9o)
+
 →日本語版は[こちら](/readme_jp.md)
 
 ---
